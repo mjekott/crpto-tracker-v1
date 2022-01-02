@@ -22,6 +22,6 @@ run:
 
 #### "npm install"
 
-Finally, run:
+Finally run:
 
 #### "npm start"
